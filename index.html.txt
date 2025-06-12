@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Discord Leak Exclusive</title>
+</head>
+<body style="background:#36393f; color:white; font-family: Arial, sans-serif; text-align:center; padding:50px;">
+  <h1>Discord Leak Exclusive 🔥</h1>
+  <p>Accédez aux meilleurs leaks privés, membres VIP uniquement.</p>
+
+  <!-- Intègre ici le fichier JS de Propeller -->
+  <script src="sw.js"></script>
+</body>
+</html>
